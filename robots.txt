@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tchoppal.github.io/le-secret-de-minuit/sitemap.xml
