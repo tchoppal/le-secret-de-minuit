@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://tchoppal.github.io/le-secret-de-minuit/</loc><lastmod>2026-11-09</lastmod></url></urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url><loc>https://tchoppal.github.io/le-secret-de-minuit/</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>1.0</priority>
+    <image:image><image:loc>https://tchoppal.github.io/le-secret-de-minuit/img/love-room-lit-king-size-1600.webp</image:loc><image:title>Love room à Bourg-en-Bresse, lit king size</image:title></image:image>
+    <image:image><image:loc>https://tchoppal.github.io/le-secret-de-minuit/img/balneo-chromotherapie-rouge-1600.webp</image:loc><image:title>Baignoire balnéo 2 places avec chromothérapie</image:title></image:image>
+  </url>
+  <url><loc>https://tchoppal.github.io/le-secret-de-minuit/location-courte-duree-bourg-en-bresse.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://tchoppal.github.io/le-secret-de-minuit/a-proximite-bourg-en-bresse.html</loc><lastmod>2026-11-11</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+</urlset>
